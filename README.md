@@ -1,6 +1,6 @@
 # Donald Cox
 
-I design and build the AI systems that run a business: 42 live automations and five production systems at a precision manufacturer. They receive goods, track stock, run production and check orders before they ship.
+I design and build the AI systems that run businesses. The largest is 42 live automations and five production systems at a precision manufacturer. They receive goods, track stock, run production and check orders before they ship.
 
 The model reads, code decides, and every change is tested before it reaches the floor.
 
