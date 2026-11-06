@@ -4,6 +4,8 @@ I design and build the AI systems that run businesses. The largest is 42 live au
 
 The model reads and code decides, and changes to the engine and prompts are tested against stored runs before they reach the floor.
 
+Based in south Georgia. Open to remote AI engineering roles.
+
 - [doncox.ai](https://doncox.ai): the systems, how they work and what they deliver. You can ask the site about my work, and it answers from verified facts.
 - [Working demos](https://doncox.ai/demos/): all five systems, running in your browser on made-up data.
 - [Resume](https://doncox.ai/donald-cox-resume.pdf)
